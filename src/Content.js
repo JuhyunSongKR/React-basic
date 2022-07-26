@@ -1,7 +1,6 @@
 import {useState} from 'react';
 import { FaTrashAlt } from 'react-icons/fa';
 
-const k = "nevermind"
 
 const Content = () => {
 
